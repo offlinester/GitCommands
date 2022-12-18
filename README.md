@@ -42,6 +42,7 @@ git log --topo-order --all --graph --date=local --pretty=format:'%C(green)%h%C(r
 | `git merge [branch name]` | Merge a branch into the active branch |
 | `git merge [source branch] [target branch]` | Merge a branch into a target branch |
 | `git stash` | Stash changes in a dirty working directory |
+| `git stash pop` | Re-Applying your stashed changes to directory |
 | `git stash clear` | Remove all stashed entries |
 
 ### Sharing & Updating Projects
